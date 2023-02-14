@@ -1,5 +1,9 @@
-<h1>Game Pong</h1>
+ <h1 align="center">Pong</h1>
+<h2>Descrição do Projeto</h2>
 
-<div>Jogo construído com no p5.js, durante a aula de Lógica do Programação.
+<p>Jogo construído com no p5.js, durante a aula de Lógica do Programação.
 
-Faz parte do projeto do curso Iniciante em Programação da Alura. </div>
+Faz parte do projeto do curso Iniciante em Programação da Alura
+ </p>
+
+
